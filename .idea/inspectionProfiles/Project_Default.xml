@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="click" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.consent_category" />
+          <option value="str.in_" />
+          <option value="str.label" />
+          <option value="bool.label" />
+          <option value="list.__getitem__" />
+          <option value="dict.__getitem__" />
+          <option value="list.pop" />
+          <option value="list.index" />
+          <option value="dict.externalPatientId" />
+          <option value="Exception.response" />
+          <option value="tuple.value" />
+          <option value="tuple.values" />
+          <option value="set.__getitem__" />
+          <option value="patient_program_objs" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
